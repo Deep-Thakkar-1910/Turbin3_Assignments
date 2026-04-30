@@ -19,11 +19,13 @@ This repo acts as a submission hub:
 ├── README.md
 ├── .gitmodules
 └── assignment0/   # Git submodule
+└── assignment1/   # Git submodule
 ```
 
 ### Configured Submodules
 
 - `assignment0` -> [Turbine_assignment0](https://github.com/Deep-Thakkar-1910/Turbine_assignment0)
+- `assignment0` -> [Turbine_assignment1](https://github.com/Deep-Thakkar-1910/Turbine_assignment1)
 
 ## Working With Submodules
 
