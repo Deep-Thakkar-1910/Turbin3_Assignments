@@ -1,4 +1,4 @@
-# Turbin3 Builder Cohort - Week 0 Submission
+# Turbin3 Builder Cohort - Assignment Submission
 
 Welcome to my Turbin3 Builder's Cohort repository.
 This is my primary workspace for cohort submissions, where each assignment lives in its own repository and is linked here as a Git submodule.
@@ -8,7 +8,7 @@ This is my primary workspace for cohort submissions, where each assignment lives
 - Program: `Turbin3 Builder's Cohort`
 - Purpose: Track and submit weekly cohort work
 - Structure: One main repository + assignment repositories as submodules
-- Current milestone: `Week 0`
+- Current milestone: `Week 1`
 
 ## Repository Structure
 
@@ -20,12 +20,14 @@ This repo acts as a submission hub:
 ├── .gitmodules
 └── assignment0/   # Git submodule
 └── assignment1/   # Git submodule
+└── assignment1_tui_version/   # Git submodule
 ```
 
 ### Configured Submodules
 
 - `assignment0` -> [Turbine_assignment0](https://github.com/Deep-Thakkar-1910/Turbine_assignment0)
 - `assignment1` -> [Turbine_assignment1](https://github.com/Deep-Thakkar-1910/Turbine_assignment1)
+- `assignment1_tui_version` -> [Turbine_assignment1_TUI_Version](https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git)
 
 ## Working With Submodules
 

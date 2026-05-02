@@ -4,3 +4,6 @@
 [submodule "assignment1"]
 	path = assignment1
 	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment1.git
+[submodule "assignment1_tui_version"]
+	path = assignment1_tui_version
+	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git
