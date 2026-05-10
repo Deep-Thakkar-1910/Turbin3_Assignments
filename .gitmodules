@@ -7,3 +7,6 @@
 [submodule "assignment1_tui_version"]
 	path = assignment1_tui_version
 	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git
+[submodule "assignment2"]
+	path = assignment2
+	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment2.git

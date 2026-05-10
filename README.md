@@ -21,13 +21,24 @@ This repo acts as a submission hub:
 └── assignment0/   # Git submodule
 └── assignment1/   # Git submodule
 └── assignment1_tui_version/   # Git submodule
+└── assignment2/   # Git submodule
 ```
+
+### Assignment Overview
+
+| #       | Assignment                                                                                                  | Description                                                                                                            |
+| ------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 0       | [Turbine_assignment0](https://github.com/Deep-Thakkar-1910/Turbine_assignment0)                             | Initialization and setup                                                                                               |
+| 1       | [Turbine_assignment1](https://github.com/Deep-Thakkar-1910/Turbine_assignment1)                             | Guessing game from the Rust Book                                                                                       |
+| 1 (TUI) | [Turbine_assignment1_TUI_Version](https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git) | TUI version of the guessing game (extra)                                                                               |
+| 2       | [Turbine_assignment2](https://github.com/Deep-Thakkar-1910/Turbine_assignment2)                             | SPL token creation with metadata, minting & transferring. NFT using Metaplex Core asset accounts with a royalty plugin |
 
 ### Configured Submodules
 
 - `assignment0` -> [Turbine_assignment0](https://github.com/Deep-Thakkar-1910/Turbine_assignment0)
 - `assignment1` -> [Turbine_assignment1](https://github.com/Deep-Thakkar-1910/Turbine_assignment1)
 - `assignment1_tui_version` -> [Turbine_assignment1_TUI_Version](https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git)
+- `assignment2` -> [Turbine_assignment2](https://github.com/Deep-Thakkar-1910/Turbine_assignment2)
 
 ## Working With Submodules
 
