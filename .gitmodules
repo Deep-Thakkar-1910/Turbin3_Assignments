@@ -10,3 +10,12 @@
 [submodule "assignment2"]
 	path = assignment2
 	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment2.git
+[submodule "assignment3_vault"]
+	path = assignment3_vault
+	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment3_vault.git
+[submodule "assignment3_escrow"]
+	path = assignment3_escrow
+	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment3_escrow.git
+[submodule "assignment4_amm"]
+	path = assignment4_amm
+	url = https://github.com/Deep-Thakkar-1910/Turbine_assignment4_amm.git

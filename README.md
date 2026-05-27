@@ -22,6 +22,9 @@ This repo acts as a submission hub:
 └── assignment1/   # Git submodule
 └── assignment1_tui_version/   # Git submodule
 └── assignment2/   # Git submodule
+└── assignment3_vault/   # Git submodule
+└── assignment3_escrow/   # Git submodule
+└── assignment4_amm/   # Git submodule
 ```
 
 ### Assignment Overview
@@ -32,6 +35,9 @@ This repo acts as a submission hub:
 | 1       | [Turbine_assignment1](https://github.com/Deep-Thakkar-1910/Turbine_assignment1)                             | Guessing game from the Rust Book                                                                                       |
 | 1 (TUI) | [Turbine_assignment1_TUI_Version](https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git) | TUI version of the guessing game (extra)                                                                               |
 | 2       | [Turbine_assignment2](https://github.com/Deep-Thakkar-1910/Turbine_assignment2)                             | SPL token creation with metadata, minting & transferring. NFT using Metaplex Core asset accounts with a royalty plugin |
+| 3       | [Turbine_assignment3_vault](https://github.com/Deep-Thakkar-1910/Turbine_assignment3_vault)                 | Anchor program implementing a Vault with expiry                                                                        |
+| 3       | [Turbine_assignment3_escrow](https://github.com/Deep-Thakkar-1910/Turbine_assignment3_escrow)               | Anchor program implementing an Escrow                                                                                  |
+| 4       | [Turbine_assignment4_amm](https://github.com/Deep-Thakkar-1910/Turbine_assignment4_amm)                     | Anchor program implementing a constant product AMM                                                                     |
 
 ### Configured Submodules
 
@@ -39,6 +45,9 @@ This repo acts as a submission hub:
 - `assignment1` -> [Turbine_assignment1](https://github.com/Deep-Thakkar-1910/Turbine_assignment1)
 - `assignment1_tui_version` -> [Turbine_assignment1_TUI_Version](https://github.com/Deep-Thakkar-1910/Turbine_assignment1_TUI_version.git)
 - `assignment2` -> [Turbine_assignment2](https://github.com/Deep-Thakkar-1910/Turbine_assignment2)
+- `assignment3_vault` -> [Turbine_assignment3_vault](https://github.com/Deep-Thakkar-1910/Turbine_assignment3_vault)
+- `assignment3_escrow` -> [Turbine_assignment3_escrow](https://github.com/Deep-Thakkar-1910/Turbine_assignment3_escrow)
+- `assignment4_amm` -> [Turbine_assignment4_amm](https://github.com/Deep-Thakkar-1910/Turbine_assignment4_amm)
 
 ## Working With Submodules
 
